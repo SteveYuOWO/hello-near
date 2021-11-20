@@ -1,0 +1,7 @@
+deploy location:
+
+https://explorer.testnet.near.org/transactions/H63tx7Hcsvr56siyz3cGFQuP3Ko4Lr8aTRGyr7nhU333
+
+Account: 
+
+hello-near.steveyu.testnet
